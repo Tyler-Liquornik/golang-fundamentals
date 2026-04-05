@@ -8,91 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "defaff3a542c79b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technologies/kubernetes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "kubernetes"
-            }
-          },
-          {
-            "id": "26656d63532847e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-introduction-to-go/1.2 Setting Up and Running a Go Program.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.2 Setting Up and Running a Go Program"
-            }
-          },
-          {
-            "id": "d8412b660a5a1e81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "technologies/langchain-rag.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "langchain-rag"
-            }
-          },
-          {
             "id": "da3a4e7cb79e5708",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ibm-baw/ant-for-baw.md",
+                "file": "2-go-essentials/2.4 User Input.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ant-for-baw"
-            }
-          },
-          {
-            "id": "22a29e8b1d200bb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ibm-baw/ant-for-baw.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ant-for-baw"
-            }
-          },
-          {
-            "id": "fd6ebb6002dd833f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ibm-baw/baw-debugger.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "baw-debugger"
+              "title": "2.4 User Input"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 200
   },
   "right": {
     "id": "9145999bbaf7502f",
@@ -252,17 +181,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26656d63532847e5",
+  "active": "da3a4e7cb79e5708",
   "lastOpenFiles": [
+    "2-go-essentials/2.3 Values & Types.md",
+    "2-go-essentials/2.4 User Input.md",
+    "2-go-essentials/2.1 Intro to Functions.md",
+    "2-go-essentials/2.2 Packages & Modules.md",
+    "2-go-essentials/investment_calculator.go",
+    "2-go-essentials/2.3 package main.md",
+    "2-go-essentials/2-go-essentials",
+    "go.mod",
+    "2-go-essentials/go.mod",
+    "2-go-essentials/app",
+    "2-go-essentials/images/2.2-packages.png",
+    "2-go-essentials/second.go",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "2-go-essentials/images/2.2-packages.png",
+    "2-go-essentials/images",
+    "1-introduction-to-go/1.2 Hello World.md",
+    "Untitled.md",
     "1. Introduction to Go/1.2 Setting Up and Running a Go Program.md",
-    "1-introduction-to-go/app.go",
-    "1-introduction-to-go/1.2 Setting Up and Running a Go Program.md",
     "1-introduction-to-go/1.1 What is Go?.md",
-    "1-introduction-to-go",
-    "1. Introduction to Go/app.go",
     "1. Introduction to Go/1.1 What is Go?.md",
     "README.md",
-    "1. Introduction to Go",
     "ibm-baw/ant-for-baw.md",
     "ibm-baw/baw-project-setup.md",
     "technologies/langchain-mcp.md",
@@ -285,19 +228,6 @@
     "technologies/typescript-for-react.md",
     "ibm-baw/ngt/ldap-dependency-setup-mac.md",
     "obsidian/obsidian-knowledge-graph.md",
-    "technologies/kubernetes.md",
-    "eclipse/eclipse-key-terms.md",
-    "eclipse/eclipse-baw-launch-macOS15.md",
-    "ibm-baw/syncing-pac.md",
-    "ibm-baw/baw-web-consoles.md",
-    "ibm-baw/pac-ui.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "ibm-baw/images/fyre-stencil.png",
-    "ibm-baw/ngt/images/user-added-to-ldap.png",
-    "ibm-baw/ngt/images",
-    "ibm-baw/ngt",
-    "files",
-    "hackathon"
+    "technologies/kubernetes.md"
   ]
 }
