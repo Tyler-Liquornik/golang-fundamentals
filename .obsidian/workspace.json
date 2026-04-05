@@ -1,0 +1,318 @@
+{
+  "main": {
+    "id": "d739af7e6c39b9ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "af6bbffbd73ae210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "defaff3a542c79b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technologies/kubernetes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kubernetes"
+            }
+          },
+          {
+            "id": "9b6d8aa4c49b7177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technologies/langchain-mcp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "langchain-mcp"
+            }
+          },
+          {
+            "id": "26656d63532847e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ibm-baw/ant-for-baw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ant-for-baw"
+            }
+          },
+          {
+            "id": "d8412b660a5a1e81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "technologies/langchain-rag.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "langchain-rag"
+            }
+          },
+          {
+            "id": "da3a4e7cb79e5708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ibm-baw/ant-for-baw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ant-for-baw"
+            }
+          },
+          {
+            "id": "22a29e8b1d200bb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ibm-baw/ant-for-baw.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ant-for-baw"
+            }
+          },
+          {
+            "id": "fd6ebb6002dd833f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ibm-baw/baw-debugger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "baw-debugger"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a632db21212b0a79",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6d4dda8d40c816d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84791f052092efb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ec922c2ca5a40d3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "build",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "00db55dd3dfba3d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.50260543823242
+  },
+  "right": {
+    "id": "9145999bbaf7502f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8498c8941eac5054",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1c4081820f54e90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "eclipse/eclipse-baw-launch-macOS15.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for eclipse-baw-launch-macOS15"
+            }
+          },
+          {
+            "id": "066d92297ec70a82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "eclipse/eclipse-baw-launch-macOS15.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from eclipse-baw-launch-macOS15"
+            }
+          },
+          {
+            "id": "24d2402070bdcc92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9581a9077e0099f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "eclipse/eclipse-baw-launch-macOS15.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of eclipse-baw-launch-macOS15"
+            }
+          },
+          {
+            "id": "ad481c7006c83d2a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9b6d8aa4c49b7177",
+  "lastOpenFiles": [
+    "ibm-baw/ant-for-baw.md",
+    "ibm-baw/baw-project-setup.md",
+    "technologies/langchain-mcp.md",
+    "technologies/git-forked-baw-setup.md",
+    "technologies/images/mcp-inspector.png",
+    "technologies/langgraph.md",
+    "ibm-baw/baw-containerized-environment.md",
+    "ibm-baw/baw-atlas-component.md",
+    "technologies/images/mcp-inspector.png",
+    "technologies/images/mcp-inspector.png",
+    "technologies/images/mcp-inspector.png",
+    "technologies/langchain-rag.md",
+    "technologies/langchain-agents.md",
+    "technologies/images/mcp-interfaces.png",
+    "technologies/images/mcp-architecture.png",
+    "technologies/images/mcp-m-times-n-solution.png",
+    "technologies/images/image-1.png",
+    "ibm-baw/baw-debugger.md",
+    "technologies/testing-react-apps.md",
+    "technologies/typescript-for-react.md",
+    "ibm-baw/ngt/ldap-dependency-setup-mac.md",
+    "obsidian/obsidian-knowledge-graph.md",
+    "technologies/kubernetes.md",
+    "eclipse/eclipse-key-terms.md",
+    "eclipse/eclipse-baw-launch-macOS15.md",
+    "ibm-baw/syncing-pac.md",
+    "ibm-baw/baw-web-consoles.md",
+    "ibm-baw/pac-ui.md",
+    "README.md",
+    "technologies/containerization.md",
+    "technologies/react-context-api.md",
+    "technologies/operating-systems.md",
+    "technologies/langchain.md",
+    "ibm-baw/baw-deployment-architectures.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "ibm-baw/images/fyre-stencil.png",
+    "ibm-baw/ngt/images/user-added-to-ldap.png",
+    "ibm-baw/ngt/images",
+    "ibm-baw/ngt",
+    "files",
+    "Untitled",
+    "hackathon",
+    "attachments",
+    "eclipse/files/install-javas.sh.sb-283b00d4-pBxFQY",
+    "eclipse/files/install-javas.sh"
+  ]
+}
