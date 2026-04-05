@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "9b6d8aa4c49b7177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "26656d63532847e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ibm-baw/ant-for-baw.md",
+                "file": "1-introduction-to-go/1.2 Setting Up and Running a Go Program.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ant-for-baw"
+              "title": "1.2 Setting Up and Running a Go Program"
             }
           },
           {
@@ -163,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.50260543823242
+    "width": 206.5
   },
   "right": {
     "id": "9145999bbaf7502f",
@@ -266,9 +252,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b6d8aa4c49b7177",
+  "active": "26656d63532847e5",
   "lastOpenFiles": [
+    "1. Introduction to Go/1.2 Setting Up and Running a Go Program.md",
+    "1-introduction-to-go/app.go",
+    "1-introduction-to-go/1.2 Setting Up and Running a Go Program.md",
+    "1-introduction-to-go/1.1 What is Go?.md",
+    "1-introduction-to-go",
+    "1. Introduction to Go/app.go",
+    "1. Introduction to Go/1.1 What is Go?.md",
     "README.md",
+    "1. Introduction to Go",
     "ibm-baw/ant-for-baw.md",
     "ibm-baw/baw-project-setup.md",
     "technologies/langchain-mcp.md",
@@ -297,11 +291,6 @@
     "ibm-baw/syncing-pac.md",
     "ibm-baw/baw-web-consoles.md",
     "ibm-baw/pac-ui.md",
-    "README.md",
-    "technologies/containerization.md",
-    "technologies/react-context-api.md",
-    "technologies/operating-systems.md",
-    "technologies/langchain.md",
     "Untitled.base",
     "Untitled 1.base",
     "ibm-baw/images/fyre-stencil.png",
@@ -309,10 +298,6 @@
     "ibm-baw/ngt/images",
     "ibm-baw/ngt",
     "files",
-    "Untitled",
-    "hackathon",
-    "attachments",
-    "eclipse/files/install-javas.sh.sb-283b00d4-pBxFQY",
-    "eclipse/files/install-javas.sh"
+    "hackathon"
   ]
 }

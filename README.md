@@ -1,5 +1,5 @@
 
-Topic covered:
+#### Topics covered:
 
 - Getting started (what is Go, setup, first program)
 - Go syntax, variables, constants, and basic types
