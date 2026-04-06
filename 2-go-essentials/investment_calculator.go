@@ -7,7 +7,17 @@ import (
 
 func main() {
 	const inflationRate = 2.5
-	investmentAmount, years, expectedReturnRate := 1000.0, 10.0, 5.5
+
+	var investmentAmount, years, expectedReturnRate float64
+
+	fmt.Print("Enter an investment amount: ")
+	fmt.Scan(&investmentAmount)
+
+	fmt.Print("Enter a number of years: ")
+	fmt.Scan(&years)
+
+	fmt.Print("Enter an expected return rate: ")
+	fmt.Scan(&expectedReturnRate)
 
 	futureValue := investmentAmount * math.Pow(1+expectedReturnRate/100, years)
 
