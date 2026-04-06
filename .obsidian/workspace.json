@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-go-essentials/2.4 User Input.md",
+                "file": "2-go-essentials/2.6 Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.4 User Input"
+              "title": "2.6 Functions"
             }
           }
         ]
@@ -185,8 +185,12 @@
   "lastOpenFiles": [
     "2-go-essentials/2.3 Values & Types.md",
     "2-go-essentials/2.4 User Input.md",
-    "2-go-essentials/2.1 Intro to Functions.md",
+    "2-go-essentials/2.5 Formatting Strings.md",
+    "2-go-essentials/2.6 Functions.md",
+    "2-go-essentials/2.1 Hello World Explained.md",
+    "1-introduction-to-go/1.2 Hello World.md",
     "2-go-essentials/2.2 Packages & Modules.md",
+    "Untitled.md",
     "2-go-essentials/investment_calculator.go",
     "2-go-essentials/2.3 package main.md",
     "2-go-essentials/2-go-essentials",
@@ -200,8 +204,6 @@
     "Untitled.base",
     "2-go-essentials/images/2.2-packages.png",
     "2-go-essentials/images",
-    "1-introduction-to-go/1.2 Hello World.md",
-    "Untitled.md",
     "1. Introduction to Go/1.2 Setting Up and Running a Go Program.md",
     "1-introduction-to-go/1.1 What is Go?.md",
     "1. Introduction to Go/1.1 What is Go?.md",
@@ -226,8 +228,6 @@
     "ibm-baw/baw-debugger.md",
     "technologies/testing-react-apps.md",
     "technologies/typescript-for-react.md",
-    "ibm-baw/ngt/ldap-dependency-setup-mac.md",
-    "obsidian/obsidian-knowledge-graph.md",
-    "technologies/kubernetes.md"
+    "ibm-baw/ngt/ldap-dependency-setup-mac.md"
   ]
 }
