@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-go-essentials/2.8 File IO.md",
+                "file": "2-go-essentials/2.2 Packages & Modules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.8 File IO"
+              "title": "2.2 Packages & Modules"
             }
           }
         ]
@@ -183,9 +183,9 @@
   },
   "active": "da3a4e7cb79e5708",
   "lastOpenFiles": [
+    "2-go-essentials/2.8 File IO.md",
     "2-go-essentials/2.9 Error Handling.md",
     "2-go-essentials/2.7-2.9/balance.txt",
-    "2-go-essentials/2.8 File IO.md",
     "2-go-essentials/2.7 Control Structures.md",
     "2-go-essentials/2.6 Functions.md",
     "balance.txt",
