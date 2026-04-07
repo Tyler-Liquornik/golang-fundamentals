@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-packages/3.1 Multiple Packages.md",
+                "file": "4-pointers/4.1 Pointer Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 Multiple Packages"
+              "title": "4.1 Pointer Basics"
             }
           }
         ]
@@ -183,20 +183,21 @@
   },
   "active": "da3a4e7cb79e5708",
   "lastOpenFiles": [
+    "4-pointers/Example2.java",
+    "4-pointers/Example1.java",
+    "4-pointers/example_2.go",
+    "4-pointers/example_1.go",
+    "3-packages/3.1 Multiple Packages.md",
+    "4-pointers/4.1 Pointer Basics.md",
+    "4-pointers",
     "go.sum",
     "pkg.go.dev.md",
-    "3-packages/3.1 Multiple Packages.md",
     "3-packages/file_io/file_io.go",
     "3-packages/file_io",
     "3-packages/fileio/file_io.go",
     "3-packages/fileio/fileio.go",
     "3-packages/fileio",
-    "3-packages/balance.txt",
-    "3-packages/communication.go",
-    "3-packages/communication.gop.go",
-    "3-packages/bank.go",
     "Untitled.md",
-    "3-packages",
     "2-go-essentials/2.2 Packages & Modules.md",
     "2-go-essentials/2.8 File IO.md",
     "2-go-essentials/2.9 Error Handling.md",
@@ -221,7 +222,6 @@
     "technologies/images/mcp-inspector.png",
     "technologies/langgraph.md",
     "ibm-baw/baw-containerized-environment.md",
-    "ibm-baw/baw-atlas-component.md",
     "technologies/images/mcp-inspector.png",
     "technologies/images/mcp-inspector.png",
     "technologies/images/mcp-inspector.png",
