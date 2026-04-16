@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "7.1 Arrays"
             }
+          },
+          {
+            "id": "847c436b7fe02846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-go-essentials/2.7 Control Structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.7 Control Structures"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scanln",
+                "query": "loop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,44 +196,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da3a4e7cb79e5708",
+  "active": "84791f052092efb8",
   "lastOpenFiles": [
-    "7-data-structures/go.work",
-    "6-interfaces-and-generics/6.6 Generics.md",
+    "7-data-structures/7.7-7.8/main.go",
+    "7-data-structures/7.6/maps.go",
+    "7-data-structures/7.5/lists.go",
+    "7-data-structures/7.4/practice.go",
+    "7-data-structures/7.3/lists.go",
+    "7-data-structures/7.1-7.2/lists.go",
+    "7-data-structures/7.8 Iterating.md",
+    "7-data-structures/7.7-7.8",
+    "7-data-structures/7.7 The make Function.md",
+    "7-data-structures/7.6 Maps.md",
+    "7-data-structures/7.6",
+    "7-data-structures/7.5 The Variadic Operator.md",
+    "7-data-structures/7.5",
+    "7-data-structures/7.4 Practice Project.md",
+    "7-data-structures/7.4",
+    "7-data-structures/7.3 Dynamic Sizing.md",
+    "7-data-structures/7.3",
+    "7-data-structures/7.2 Slices.md",
     "7-data-structures/7.1 Arrays.md",
-    "7-data-structures",
+    "2-go-essentials/2.7 Control Structures.md",
+    "5-structs-and-custom-types/5.7 Custom Types.md",
+    "6-interfaces-and-generics/6.6 Generics.md",
     "6-interfaces-and-generics/6.4 Type Switches.md",
     "6-interfaces-and-generics/6.5 Type Assertions.md",
-    "6-interfaces-and-generics/6.6/main.go",
     "6-interfaces-and-generics/6.3 The Any Type.md",
-    "6-interfaces-and-generics/6.6",
-    "6-interfaces-and-generics/6.3-6.5/main.go",
-    "6-interfaces-and-generics/6.3-6.5",
-    "6-interfaces-and-generics/6.3-6.6/main.go",
-    "6-interfaces-and-generics/6.3-6.6",
     "6-interfaces-and-generics/6.2 Embedded Interfaces.md",
     "6-interfaces-and-generics/6.1 Interfaces.md",
-    "6-interfaces-and-generics/6.1-6.2/note/note.go",
-    "6-interfaces-and-generics/6.1-6.2/todo/todo.go",
-    "6-interfaces-and-generics/6.1-6.2/todo.json",
     "5-structs-and-custom-types/5.8 Practice Project.md",
     "5-structs-and-custom-types/5.1 Data Structs.md",
     "5-structs-and-custom-types/5.4 Constructors.md",
-    "5-structs-and-custom-types/5.7 Custom Types.md",
     "5-structs-and-custom-types/5.3 Struct Methods.md",
     "5-structs-and-custom-types/5.2 Struct Pointers.md",
     "5-structs-and-custom-types/5.6 Struct Embedding.md",
     "5-structs-and-custom-types/5.5 Structs in Packages.md",
     "README.md",
     "4-pointers/4.1 Pointer Basics.md",
-    "Untitled.md",
-    "3-packages/3.1 Multiple Packages.md",
-    "pkg.go.dev.md",
-    "2-go-essentials/2.2 Packages & Modules.md",
-    "2-go-essentials/2.8 File IO.md",
-    "2-go-essentials/2.9 Error Handling.md",
-    "2-go-essentials/2.7 Control Structures.md",
-    "2-go-essentials/2.6 Functions.md",
     "2-go-essentials/images/2.2-packages.png",
     "2-go-essentials/images/2.2-packages.png",
     "technologies/images/mcp-inspector.png",
