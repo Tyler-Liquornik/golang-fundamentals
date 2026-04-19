@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11-web-server/11.1 API Planning & Setup.md",
+                "file": "11-web-server/11.2 Routes & Queries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.1 API Planning & Setup"
+              "title": "11.2 Routes & Queries"
             }
           }
         ],
@@ -198,9 +198,14 @@
   },
   "active": "847c436b7fe02846",
   "lastOpenFiles": [
-    "11-web-server/11.2 Building Routes.md",
+    "11-web-server/api-test/get-events.http",
+    "11-web-server/11.1 Server Planning & Setup.md",
+    "11-web-server/11.2 Routes & Queries.md",
+    "11-web-server/api-test/create-event.http",
+    "11-web-server/api-test",
+    "11-web-server/models/event.go",
+    "11-web-server/models",
     "11-web-server/11.3 Identity & Access.md",
-    "11-web-server/11.1 API Planning & Setup.md",
     "11-web-server/main.go",
     "11-web-server/11.6 User Registrations.md",
     "11-web-server/11.2 First Route.md",
@@ -213,10 +218,6 @@
     "10-concurrency/10.3-10.5/results/result_15.json",
     "10-concurrency/10.3-10.5/results/result_10.json",
     "10-concurrency/10.3-10.5/results/result_0.json",
-    "10-concurrency/10.3-10.5/cmdmanager/cmdmanager.go",
-    "10-concurrency/10.3-10.5/prices/prices.txt",
-    "10-concurrency/10.3-10.5/prices/prices.go",
-    "10-concurrency/10.3-10.5/iomanager/iomanager.go",
     "10-concurrency/10.2 Channels.md",
     "10-concurrency/10.3/9.1 Practice Project.md",
     "10-concurrency/10.1 Goroutines.md",
