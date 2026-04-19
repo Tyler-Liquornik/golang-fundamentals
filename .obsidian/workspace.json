@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11-web-server/11.2 Routes & Queries.md",
+                "file": "11-web-server/11.3 Identity & Access.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.2 Routes & Queries"
+              "title": "11.3 Identity & Access"
             }
           }
         ],
@@ -198,6 +198,8 @@
   },
   "active": "847c436b7fe02846",
   "lastOpenFiles": [
+    "11-web-server/11.2 Routes & Queries.md",
+    "11-web-server/11.3 Identity & Access.md",
     "11-web-server/11.1 Server Planning & Setup.md",
     "11-web-server/api-test/delete-event.http",
     "11-web-server/api-test/update-event.http",
@@ -206,7 +208,6 @@
     "11-web-server/routes/events.go",
     "11-web-server/routes",
     "11-web-server/api-test/get-event.http",
-    "11-web-server/11.2 Routes & Queries.md",
     "11-web-server/models/event.go~",
     "11-web-server/db/api.db",
     "api.db",
