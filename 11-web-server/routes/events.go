@@ -35,19 +35,19 @@ func getEvents(ctx *gin.Context) {
 }
 
 func createEvent(ctx *gin.Context) {
-	var event models.Event
 
 	// BindJSON auto-writes a 400 response and aborts on failure.
 	// Alternatively, ShouldBindJSON returns an error for you to handle.
 	// Missing fields are by default left as zero values in the struct instance.
+	var event models.Event
 	err := ctx.ShouldBindJSON(&event)
 	if err != nil {
 		ctx.JSON(http.StatusBadRequest, gin.H{"error": "Invalid request body"})
 		return
 	}
 
-	event.ID = 1
-	event.UserID = 1
+	// Auth middleware will have set the user ID on the context.
+	event.UserID = ctx.GetInt64("userId")
 
 	err = event.Save()
 	if err != nil {
@@ -66,9 +66,16 @@ func updateEvent(ctx *gin.Context) {
 	}
 
 	// Make sure the event exists before trying to update.
-	_, err = models.GetEventByID(eventId)
+	event, err := models.GetEventByID(eventId)
 	if err != nil {
 		ctx.JSON(http.StatusNotFound, gin.H{"error": "Event not found"})
+		return
+	}
+
+	// Only the user who created the event can update it.
+	userId := ctx.GetInt64("userId")
+	if event.UserID != userId {
+		ctx.JSON(http.StatusForbidden, gin.H{"error": "You are not authorized to update this event"})
 		return
 	}
 
@@ -98,6 +105,13 @@ func deleteEvent(ctx *gin.Context) {
 	event, err := models.GetEventByID(eventId)
 	if err != nil {
 		ctx.JSON(http.StatusNotFound, gin.H{"error": "Event not found"})
+		return
+	}
+
+	// Only the user who created the event can update it.
+	userId := ctx.GetInt64("userId")
+	if event.UserID != userId {
+		ctx.JSON(http.StatusForbidden, gin.H{"error": "You are not authorized to delete this event"})
 		return
 	}
 

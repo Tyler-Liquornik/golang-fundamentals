@@ -4,6 +4,7 @@ import (
 	"net/http"
 
 	"github.com/Tyler-Liquornik/golang-fundamentals/11-web-server/models"
+	"github.com/Tyler-Liquornik/golang-fundamentals/11-web-server/utils"
 	"github.com/gin-gonic/gin"
 )
 
@@ -39,5 +40,11 @@ func login(ctx *gin.Context) {
 		return
 	}
 
-	ctx.JSON(http.StatusOK, gin.H{"message": "Login successful"})
+	token, err := utils.GenerateJWTToken(user.Email, user.ID)
+	if err != nil {
+		ctx.JSON(http.StatusInternalServerError, gin.H{"message": "Could not generate JWT token"})
+		return
+	}
+
+	ctx.JSON(http.StatusOK, gin.H{"message": "Login successful", "token": token})
 }
